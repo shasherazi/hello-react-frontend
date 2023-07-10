@@ -4,6 +4,7 @@ import App from "./App.jsx";
 import Greeting from "./components/Greeting.jsx";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { Provider } from "react-redux";
+import store from "./redux/store";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
