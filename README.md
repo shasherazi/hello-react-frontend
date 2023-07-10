@@ -71,7 +71,7 @@ To run the project, execute the following command in the terminal:
 
 ## 👥 Author <a name="author"></a>
 
-👤 **Anthony Martin**
+👤 **Syed Hassan Askri**
 
 - GitHub: [shasherazi](https://github.com/shasherazi)
 - Twitter: [shasherazi](https://twitter.com/shasherazi)
